@@ -6,4 +6,11 @@
             { "type": "ShopItem", "dataType": "Perm", "itemType": "Skin", "name": "SkinName" }
         ]
     }
+    "test200": {
+        "endDate": "2025-05-29",
+        "rewards": [
+            { "type": "Tix", "amount": 100 },
+            { "type": "ShopItem", "dataType": "Perm", "itemType": "Skin", "name": "loleris" }
+        ]
+    }
 }
