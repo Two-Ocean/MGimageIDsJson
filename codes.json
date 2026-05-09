@@ -1,0 +1,11 @@
+[
+    {
+        "test100": {
+            "endDate": "2026-05-31",
+            "rewards": [
+                { "type": "Tix", "amount": 100 },
+                { "type": "ShopItem", "dataType": "Perm", "itemType": "Skin", "name": "SkinName" }
+            ]
+        }
+    }
+]
